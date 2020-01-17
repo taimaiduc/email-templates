@@ -22,7 +22,7 @@
     Hey [[[Name]]],
 
 
-    As you already know, I’ll be leaving my position as [[[job title]]] here at [[[Company]]], and my last day is [[[date|date]]].
+    As you already know, I’ll be leaving my position as [[[job title]]] here at [[[Company]]], and my last day is [[[date|2020-01-01]]].
 
 
     While I’m excited about the new opportunity, there’s also a big part of me that’s sad to be saying goodbye to amazing co-workers just like you. I can’t tell you how much I’ve enjoyed our time working together, and how much I value the friendship you’ve shown me over the past [how long you’ve worked together].
@@ -34,7 +34,6 @@
     All the best,
     
     [[[Your Name]]]
-
 3:
   title: Thank you an interview111
   category: thank-you
