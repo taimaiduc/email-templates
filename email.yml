@@ -16,7 +16,7 @@
     [[[Your Full-Name]]]
 2:
   title: Goodbye Email to Co-workers - You’re Really Close To
-  category: thank-you
+  category: good-bye
   image: https://i.imgur.com/kZ2Er89.jpg
   body: >
     Hey [[[Name]]],
@@ -36,7 +36,7 @@
     [[[Your Name]]]
 3:
   title: Goodbye Email to Co-workers - You Don’t Know as Well
-  category: thank-you
+  category: good-bye
   image: https://i.imgur.com/kZ2Er89.jpg
   body: >
     Hello [[[Name]]],
